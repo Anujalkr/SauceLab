@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-07T10:48:10 IST" name="Default suite" finished-at="2024-07-07T10:48:15 IST" duration-ms="5195">
+    <groups>
+    </groups>
+    <test started-at="2024-07-07T10:48:10 IST" name="Default test" finished-at="2024-07-07T10:48:15 IST" duration-ms="5195">
+      <class name="Test.ProductTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Test.ProductTest@45752059]" started-at="2024-07-07T10:48:10 IST" name="beforeMethod" finished-at="2024-07-07T10:48:14 IST" duration-ms="4629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyProductSorting()[pri:1, instance:Test.ProductTest@45752059]" started-at="2024-07-07T10:48:14 IST" name="verifyProductSorting" description="Verify the sorting of products by inputtong option(Price / Name)" finished-at="2024-07-07T10:48:15 IST" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductSorting -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.ProductTest@45752059]" started-at="2024-07-07T10:48:15 IST" name="tearDown" finished-at="2024-07-07T10:48:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.ProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
